@@ -1,6 +1,9 @@
 # Security-Threat-Identification
 Cybersecurity project focused on identifying, analyzing, and mitigating common security threats and vulnerabilities.
 
+[Security.Threat.Identification.Project.pdf](https://github.com/user-attachments/files/29668641/Security.Threat.Identification.Project.pdf)
+
+
 ## Project Overview
 
 This project focused on identifying security threats, performing vulnerability assessment, and analyzing network traffic in a controlled lab environment. Using Nmap, Nessus, and Wireshark, a vulnerable Metasploitable2 machine was assessed to identify exposed services, potential vulnerabilities, and suspicious network activity.
@@ -86,9 +89,4 @@ This project focused on identifying security threats, performing vulnerability a
 
 The assessment successfully identified multiple security threats and vulnerabilities within the target environment. Network traffic analysis highlighted suspicious activities and insecure communication methods. Proper patch management, service hardening, secure configurations, and strong authentication controls are recommended to reduce organizational risk and improve overall security posture.
 
-[Security Threat Identification  Sneha S Internpe Project.pdf](https://github.com/user-attachments/files/28437300/Security.Threat.Identification.Sneha.S.Internpe.Project.pdf)
-
-Internship
-Organization: InternPe
-Assignment: Assignment #1 – Security-Threat-Identification
-Domain: Cyber Security Internship
+p
