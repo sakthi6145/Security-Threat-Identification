@@ -1,12 +1,12 @@
 # Security-Threat-Identification
 Cybersecurity project focused on identifying, analyzing, and mitigating common security threats and vulnerabilities.
 
-[Security.Threat.Identification.Project.pdf](https://github.com/user-attachments/files/29668641/Security.Threat.Identification.Project.pdf)
-
-
 ## Project Overview
 
 This project focused on identifying security threats, performing vulnerability assessment, and analyzing network traffic in a controlled lab environment. Using Nmap, Nessus, and Wireshark, a vulnerable Metasploitable2 machine was assessed to identify exposed services, potential vulnerabilities, and suspicious network activity.
+
+[Security.Threat.Identification.Project.pdf](https://github.com/user-attachments/files/29668641/Security.Threat.Identification.Project.pdf)
+
 
 ## Objectives
 
