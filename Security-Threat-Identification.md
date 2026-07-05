@@ -89,4 +89,3 @@ This project focused on identifying security threats, performing vulnerability a
 
 The assessment successfully identified multiple security threats and vulnerabilities within the target environment. Network traffic analysis highlighted suspicious activities and insecure communication methods. Proper patch management, service hardening, secure configurations, and strong authentication controls are recommended to reduce organizational risk and improve overall security posture.
 
-p
